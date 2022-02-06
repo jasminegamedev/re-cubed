@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/TitleScreen.unity
+    guid: 79aed52eea88e8a4d8f9f3a5b0878e8f
+  - enabled: 1
+    path: Assets/Scenes/Level0.unity
+    guid: 6954d4d355e6ec749b246638e0c9d168
+  - enabled: 1
+    path: Assets/Scenes/Level1.unity
+    guid: 5897584bf156c9a4cadf343367de5875
+  - enabled: 1
+    path: Assets/Scenes/Level2.unity
+    guid: 2dbd6736a30de3543867cfc6962adae1
+  - enabled: 1
+    path: Assets/Scenes/Level3.unity
+    guid: dd1018505245e9d41af6cb1b03402dfe
+  - enabled: 1
+    path: Assets/Scenes/Level4.unity
+    guid: c4a64572531a46b47b119be8affa2276
+  - enabled: 1
+    path: Assets/Scenes/Level5.unity
+    guid: 097bf46e85f2dae4991c691602a990da
+  - enabled: 1
+    path: Assets/Scenes/BonusLevel.unity
+    guid: fa5ae418d4a7d934db890a415779d6d7
+  - enabled: 1
+    path: Assets/Scenes/BonusLevel2.unity
+    guid: 29c10bcec1368bb46a99e197586682b5
+  - enabled: 1
+    path: Assets/Scenes/Level6.unity
+    guid: 3f0dc4cba84841b4cb6779fa7497a353
+  - enabled: 1
+    path: Assets/Scenes/CreditsScene.unity
+    guid: 7a15377eef79d2444b2a14083d6ff1ed
+  - enabled: 1
+    path: Assets/Scenes/VictoryScreen.unity
+    guid: 140e78471eba1384b886b8c2ce794e88
+  m_configObjects: {}
